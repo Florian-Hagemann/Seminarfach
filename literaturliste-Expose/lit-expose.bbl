@@ -1,0 +1,183 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{c151136730cbea4846ecc48d309c24a3b61262a3e13081fd2913260b4a23ad1a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=55705e40b313cfcd24a00b20d0093c80}{%
+           family={Champion},
+           familyi={C\bibinitperiod},
+           given={Craige},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0cf4f5b5fdfe0a9f16fbeedaf5d650c}{%
+           family={Orlin},
+           familyi={O\bibinitperiod},
+           given={Eric\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \strng{fullhash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \strng{bibnamehash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \strng{authorbibnamehash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \strng{authornamehash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \strng{authorfullhash}{28ec65b816bd6d3abd997e34c9da48a3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Test test test}
+      \field{note}{{Source: The Classical World ; volume 93, issue 3, page 303 ; ISSN 0009-8418}}
+      \field{title}{{Temples, Religion and Politics in the Roman Republic}}
+      \field{year}{2000}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://doi.org/10.2307/4352425
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2307/4352425
+      \endverb
+    \endentry
+    \entry{c1668dd5d456506330a380b0e5b620f9e0b9901b85404ebf3c1c458e88d4e924}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=09871eeeddbe59cbf49df522043c65db}{%
+           family={Hoover},
+           familyi={H\bibinitperiod},
+           given={Stewart\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55497018ea2c155ca1e4008933b3e6f7}{%
+           family={Ruhr-University\bibnamedelima Bochum},
+           familyi={R\bibinithyphendelim U\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={USA},
+           giveni={U\bibinitperiod},
+           givenun=0,
+           suffix={GER;\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Colorado\bibnamedelima Boulder},
+           suffixi={G\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{fullhash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{bibnamehash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{authorbibnamehash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{authornamehash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{authorfullhash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Shifting Terms of Religious Authority in North Atlantic Politics and Culture}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://doi.org/10.46586/er.11.2020.9278
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.46586/er.11.2020.9278
+      \endverb
+      \keyw{{Religion; media; politics; nationalism}}
+    \endentry
+    \entry{1bee304f5f76b418324421477e82d094072280e4653700a6634ad2dbdb131932}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6747d41cf3b3ade4b0ec09736c6617fe}{%
+           family={Schäfer},
+           familyi={S\bibinitperiod},
+           given={Heinrich\bibnamedelima Wilhelm},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \strng{fullhash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \strng{bibnamehash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \strng{authorbibnamehash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \strng{authornamehash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \strng{authorfullhash}{6747d41cf3b3ade4b0ec09736c6617fe}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Die Taufe des Leviathan. Protestantische Eliten und Politik in den USA und Lateinamerika}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://doi.org/10.14361/9783839457269
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14361/9783839457269
+      \endverb
+    \endentry
+    \entry{3f046f3bdcc25aa51cb5b2fc010406f368b60a04dc2d57fa1217846ad875dfb3}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=934bf201ae03542fa204e107ab4fcd12}{%
+           family={Sigere},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima Pierre},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {UCL (University College London)}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{934bf201ae03542fa204e107ab4fcd12}
+      \strng{fullhash}{934bf201ae03542fa204e107ab4fcd12}
+      \strng{bibnamehash}{934bf201ae03542fa204e107ab4fcd12}
+      \strng{authorbibnamehash}{934bf201ae03542fa204e107ab4fcd12}
+      \strng{authornamehash}{934bf201ae03542fa204e107ab4fcd12}
+      \strng{authorfullhash}{934bf201ae03542fa204e107ab4fcd12}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Rei publicae (in)felix est: FELICITAS and the Romans{’} relationship with the divine}}
+      \field{type}{phdthesis}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://discovery.ucl.ac.uk/id/eprint/10176385/1/Sigere_thesis.pdf
+      \endverb
+      \verb{url}
+      \verb https://discovery.ucl.ac.uk/id/eprint/10176385/1/Sigere_thesis.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

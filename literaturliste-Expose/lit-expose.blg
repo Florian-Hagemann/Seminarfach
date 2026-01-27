@@ -1,5 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'lit-expose.blg'
-[79] biber:340> INFO - === Mon Jan 26, 2026, 23:00:45
-[233] Utils.pm:399> ERROR - Cannot find 'lit-expose.bcf'!
-[233] Biber.pm:136> INFO - ERRORS: 1
+[104] biber:340> INFO - === Tue Jan 27, 2026, 22:49:42
+[121] Biber.pm:419> INFO - Reading 'lit-expose.bcf'
+[189] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[205] Biber.pm:4419> INFO - Processing section 0
+[217] Biber.pm:4610> INFO - Looking for bibtex file 'pre-expose-literatur.bib' for section 0
+[219] bibtex.pm:1713> INFO - LaTeX decoding ...
+[226] bibtex.pm:1519> INFO - Found BibTeX data source 'pre-expose-literatur.bib'
+[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[296] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[296] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[311] bbl.pm:660> INFO - Writing 'lit-expose.bbl' with encoding 'UTF-8'
+[314] bbl.pm:763> INFO - Output to lit-expose.bbl

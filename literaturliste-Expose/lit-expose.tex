@@ -2,11 +2,27 @@
 
 \usepackage[ngerman]{babel}
 \usepackage{sans}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+
+\usepackage[
+  style=authoryear,
+  backend=biber,
+  natbib=true
+]{biblatex}
+
+\addbibresource{pre-expose-literatur.bib}
 
 \title{Vorläufige Literaturliste des Exposés}
 \author{Florian Hagemann}
 
+\DeclareFieldFormat{annotation}{\par\small #1}
+\renewbibmacro*{finentry}{\printfield{annotation}\finentry}
+
 \begin{document}
 \maketitle
 jifjaisofjaiso
+
+\nocite{*}
+\printbibliography
 \end{document}
