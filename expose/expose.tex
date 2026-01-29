@@ -4,6 +4,7 @@
 \usepackage{sans}
 \usepackage[utf8]{inputenc}
 \usepackage{csquotes}
+\usepackage{tabularx}
 \usepackage{setspace}
 \onehalfspacing
 
@@ -27,9 +28,48 @@ Gymnasium Mellendorf \\
 Fritz-Sennheiser-Platz 2 \\
 30900 Wedemark \\
 Schuljahr: 2025/26 \\
-
 \thispagestyle{empty}
 \end{titlepage}
+
+\section*{\begin{center}
+    Seminarfach
+\end{center}}
+
+Verfasser:in: [vollständige(n) Name(n) einfügen] \\
+Thema: [Thema entsprechend der zugeteilten Formulierung einfügen] \\
+Fachlehrkraft und Kursbezeichnung: [hier einfügen] \\
+
+\begin{center}
+    \textbf{Abgabetermin: 19.02.2026 zu Beginn der Seminarfachsitzung um 14 Uhr}
+\end{center}
+\vspace*{50px}
+\subsubsection*{Benotung}
+
+\qquad Verfasser:in
+
+\begingroup
+    \vspace*{1\baselineskip}%
+    \setlength{\tabcolsep}{0pt}%
+    \setlength{\arrayrulewidth}{1.2pt}%
+    \renewcommand*\arraystretch{1.5}%
+    \sffamily
+    \noindent%
+    \begin{tabularx}{\linewidth}{
+            >{\hspace{12pt}}X 
+            c
+            @{\hspace{3em}}
+            >{\hspace{12pt}}X 
+        }
+        &&\\[\normalbaselineskip]
+        \cline{1-1}\cline{3-3}
+        Datum && Unterschrift der Lehrkraft
+    \end{tabularx}
+    \vspace*{1\baselineskip}
+    \par
+\endgroup
+
+\pagestyle{empty}
+\newpage
 
 \tableofcontents
 \thispagestyle{empty}
