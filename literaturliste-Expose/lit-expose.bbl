@@ -19,49 +19,27 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{c151136730cbea4846ecc48d309c24a3b61262a3e13081fd2913260b4a23ad1a}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=55705e40b313cfcd24a00b20d0093c80}{%
-           family={Champion},
-           familyi={C\bibinitperiod},
-           given={Craige},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c0cf4f5b5fdfe0a9f16fbeedaf5d650c}{%
-           family={Orlin},
-           familyi={O\bibinitperiod},
-           given={Eric\bibnamedelima M.},
-           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
+    \entry{TIBKAT:885115759}{book}{}
+      \list{location}{1}{%
+        {Freiburg}%
       }
       \list{publisher}{1}{%
-        {JSTOR}%
+        {Herder;}%
       }
-      \strng{namehash}{28ec65b816bd6d3abd997e34c9da48a3}
-      \strng{fullhash}{28ec65b816bd6d3abd997e34c9da48a3}
-      \strng{bibnamehash}{28ec65b816bd6d3abd997e34c9da48a3}
-      \strng{authorbibnamehash}{28ec65b816bd6d3abd997e34c9da48a3}
-      \strng{authornamehash}{28ec65b816bd6d3abd997e34c9da48a3}
-      \strng{authorfullhash}{28ec65b816bd6d3abd997e34c9da48a3}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
+      \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
-      \field{annotation}{Test test test}
-      \field{note}{{Source: The Classical World ; volume 93, issue 3, page 303 ; ISSN 0009-8418}}
-      \field{title}{{Temples, Religion and Politics in the Roman Republic}}
-      \field{year}{2000}
+      \field{isbn}{9783451379734, 3451379732}
+      \field{title}{Christentum und Populismus : klare Fronten?}
+      \field{year}{2017}
       \true{nocite}
       \verb{urlraw}
-      \verb https://doi.org/10.2307/4352425
+      \verb https://www.tib.eu/de/suchen/id/TIBKAT%3A885115759
       \endverb
       \verb{url}
-      \verb https://doi.org/10.2307/4352425
+      \verb https://www.tib.eu/de/suchen/id/TIBKAT%3A885115759
       \endverb
     \endentry
     \entry{c1668dd5d456506330a380b0e5b620f9e0b9901b85404ebf3c1c458e88d4e924}{misc}{}
@@ -94,7 +72,7 @@
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Shifting Terms of Religious Authority in North Atlantic Politics and Culture}}
@@ -126,7 +104,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Die Taufe des Leviathan. Protestantische Eliten und Politik in den USA und Lateinamerika}}
@@ -138,6 +116,32 @@
       \verb{url}
       \verb https://doi.org/10.14361/9783839457269
       \endverb
+    \endentry
+    \entry{key}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33de09179e89a3f1a08d4e9a2ef580d8}{%
+           family={Schelkshom},
+           familyi={S\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{fullhash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{bibnamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{authorbibnamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{authornamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{authorfullhash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Christentum und Populismus : klare Fronten?}
+      \field{title}{Wider die Instrumentalisierung des Christentums}
+      \field{year}{o.A.}
+      \true{nocite}
     \endentry
     \entry{3f046f3bdcc25aa51cb5b2fc010406f368b60a04dc2d57fa1217846ad875dfb3}{thesis}{}
       \name{author}{1}{}{%
@@ -163,7 +167,7 @@
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Rei publicae (in)felix est: FELICITAS and the Romans{’} relationship with the divine}}

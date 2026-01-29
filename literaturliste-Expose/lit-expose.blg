@@ -1,15 +1,18 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'lit-expose.blg'
-[104] biber:340> INFO - === Tue Jan 27, 2026, 22:49:42
-[121] Biber.pm:419> INFO - Reading 'lit-expose.bcf'
-[189] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[205] Biber.pm:4419> INFO - Processing section 0
-[217] Biber.pm:4610> INFO - Looking for bibtex file 'pre-expose-literatur.bib' for section 0
-[219] bibtex.pm:1713> INFO - LaTeX decoding ...
-[226] bibtex.pm:1519> INFO - Found BibTeX data source 'pre-expose-literatur.bib'
-[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[295] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[296] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[296] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[311] bbl.pm:660> INFO - Writing 'lit-expose.bbl' with encoding 'UTF-8'
-[314] bbl.pm:763> INFO - Output to lit-expose.bbl
+[64] biber:340> INFO - === Thu Jan 29, 2026, 11:43:21
+[74] Biber.pm:418> INFO - Reading 'lit-expose.bcf'
+[129] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[139] Biber.pm:4383> INFO - Processing section 0
+[148] Biber.pm:4574> INFO - Looking for bibtex file 'pre-expose-literatur.bib' for section 0
+[148] bibtex.pm:1713> INFO - LaTeX decoding ...
+[153] bibtex.pm:1518> INFO - Found BibTeX data source 'pre-expose-literatur.bib'
+[201] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[201] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[201] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[201] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[209] bbl.pm:654> INFO - Writing 'lit-expose.bbl' with encoding 'UTF-8'
+[211] bbl.pm:757> INFO - Output to lit-expose.bbl
+[211] Biber.pm:130> WARN - ISBN '9783451379734, 3451379732' in entry 'TIBKAT:885115759' is invalid - run biber with '--validate_datamodel' for details.
+[211] Biber.pm:130> WARN - legacy year field 'o.A.' in entry 'key' is not an integer - this will probably not sort properly.
+[211] Biber.pm:132> INFO - WARNINGS: 2
