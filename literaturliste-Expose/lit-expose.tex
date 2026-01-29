@@ -1,4 +1,4 @@
-\documentclass[a4paper]{scrarticle}
+\documentclass[a4paper, 12pt]{scrarticle}
 
 \usepackage[ngerman]{babel}
 \usepackage{sans}
@@ -10,14 +10,24 @@
   backend=biber,
   natbib=true
 ]{biblatex}
-
+\setlength{\bibitemsep}{\baselineskip}   % readable (recommended)
 \addbibresource{pre-expose-literatur.bib}
 
 \title{Vorläufige Literaturliste des Exposés}
 \author{Florian Hagemann}
 
-\DeclareFieldFormat{annotation}{\par\small #1}
-\renewbibmacro*{finentry}{\printfield{annotation}\finentry}
+\renewbibmacro*{finentry}{%
+  \finentry
+  \printfield{annotation}%
+}
+\DeclareFieldFormat{annotation}{%
+  \par\small\noindent#1
+}
+
+
+
+\usepackage{setspace}
+\onehalfspacing
 
 \begin{document}
 \maketitle

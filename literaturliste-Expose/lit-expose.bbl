@@ -31,18 +31,13 @@
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
+      \field{annotation}{Gesammeltes Werk zu Populismus und Christentum, das eine Hilfe für Beispiele sowie Theorie ist. Genutzte Werke werden extra zitiert und erklärt.}
       \field{isbn}{9783451379734, 3451379732}
       \field{title}{Christentum und Populismus : klare Fronten?}
       \field{year}{2017}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://www.tib.eu/de/suchen/id/TIBKAT%3A885115759
-      \endverb
-      \verb{url}
-      \verb https://www.tib.eu/de/suchen/id/TIBKAT%3A885115759
-      \endverb
     \endentry
-    \entry{c1668dd5d456506330a380b0e5b620f9e0b9901b85404ebf3c1c458e88d4e924}{misc}{}
+    \entry{c1668dd5d456506330a380b0e5b620f9e0b9901b85404ebf3c1c458e88d4e924}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=09871eeeddbe59cbf49df522043c65db}{%
            family={Hoover},
@@ -75,6 +70,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{{Eine Analyse der modernen Beziehung von Religion und Politik. Auch wird von Hoover der Aspekt der Medien eingebracht, wo vielleicht ein Zusammenhang zur Römischen Republik zu finden ist, in dem Aspekt der Beliebtheit.}}
       \field{title}{{The Shifting Terms of Religious Authority in North Atlantic Politics and Culture}}
       \field{year}{2021}
       \true{nocite}
@@ -84,7 +80,6 @@
       \verb{url}
       \verb https://doi.org/10.46586/er.11.2020.9278
       \endverb
-      \keyw{{Religion; media; politics; nationalism}}
     \endentry
     \entry{1bee304f5f76b418324421477e82d094072280e4653700a6634ad2dbdb131932}{book}{}
       \name{author}{1}{}{%
@@ -107,6 +102,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{Schäfer erklärt die theoretischen Grundlagen zur politischer Instrumentalisierung von Religion und bezieht sich anschließend auf Beispiele in den USA.}
       \field{title}{{Die Taufe des Leviathan. Protestantische Eliten und Politik in den USA und Lateinamerika}}
       \field{year}{2021}
       \true{nocite}
@@ -117,7 +113,7 @@
       \verb https://doi.org/10.14361/9783839457269
       \endverb
     \endentry
-    \entry{key}{article}{}
+    \entry{Populismus}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=33de09179e89a3f1a08d4e9a2ef580d8}{%
            family={Schelkshom},
@@ -134,13 +130,12 @@
       \strng{authorfullhash}{33de09179e89a3f1a08d4e9a2ef580d8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{Moderner Populismus und dessen Instrumentalisierung des Christentums; Mögliche Beispiele für die Seminararbeit.}
       \field{journaltitle}{Christentum und Populismus : klare Fronten?}
       \field{title}{Wider die Instrumentalisierung des Christentums}
-      \field{year}{o.A.}
       \true{nocite}
     \endentry
     \entry{3f046f3bdcc25aa51cb5b2fc010406f368b60a04dc2d57fa1217846ad875dfb3}{thesis}{}
@@ -170,6 +165,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{In dieser Doktorarbeit erklärt Sigere \emph{felicitas} als wichtigen Aspekt römischer Politik und der Legitimierungsfunktion die Religion einnahm.}
       \field{title}{{Rei publicae (in)felix est: FELICITAS and the Romans{’} relationship with the divine}}
       \field{type}{phdthesis}
       \field{year}{2023}
