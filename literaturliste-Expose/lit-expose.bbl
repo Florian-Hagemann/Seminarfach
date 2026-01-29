@@ -19,59 +19,50 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{TIBKAT:885115759}{book}{}
+    \entry{ChristentumPopulismus2017}{book}{}
       \list{location}{1}{%
         {Freiburg}%
       }
       \list{publisher}{1}{%
-        {Herder;}%
+        {Herder}%
       }
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labeltitlesource}{title}
-      \field{annotation}{Gesammeltes Werk zu Populismus und Christentum, das eine Hilfe für Beispiele sowie Theorie ist. Genutzte Werke werden extra zitiert und erklärt.}
-      \field{isbn}{9783451379734, 3451379732}
-      \field{title}{Christentum und Populismus : klare Fronten?}
+      \field{annotation}{Der Sammelband versammelt interdisziplinäre Analysen zur Instrumentalisierung des Christentums im Kontext modernen Populismus. Die Beiträge liefern theoretische und empirische Vergleichspunkte für die Untersuchung religiöser Instrumentalisierung in den USA.}
+      \field{isbn}{9783451379734}
+      \field{title}{Christentum und Populismus: Klare Fronten?}
       \field{year}{2017}
       \true{nocite}
     \endentry
-    \entry{c1668dd5d456506330a380b0e5b620f9e0b9901b85404ebf3c1c458e88d4e924}{article}{}
-      \name{author}{2}{}{%
+    \entry{Hoover2021}{article}{}
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09871eeeddbe59cbf49df522043c65db}{%
            family={Hoover},
            familyi={H\bibinitperiod},
            given={Stewart\bibnamedelima M.},
            giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=55497018ea2c155ca1e4008933b3e6f7}{%
-           family={Ruhr-University\bibnamedelima Bochum},
-           familyi={R\bibinithyphendelim U\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={USA},
-           giveni={U\bibinitperiod},
-           givenun=0,
-           suffix={GER;\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Colorado\bibnamedelima Boulder},
-           suffixi={G\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
-           suffixun=0}}%
       }
       \list{language}{1}{%
         {eng}%
       }
-      \strng{namehash}{453f760c901f9703fd0f9fe2686ce6f4}
-      \strng{fullhash}{453f760c901f9703fd0f9fe2686ce6f4}
-      \strng{bibnamehash}{453f760c901f9703fd0f9fe2686ce6f4}
-      \strng{authorbibnamehash}{453f760c901f9703fd0f9fe2686ce6f4}
-      \strng{authornamehash}{453f760c901f9703fd0f9fe2686ce6f4}
-      \strng{authorfullhash}{453f760c901f9703fd0f9fe2686ce6f4}
+      \strng{namehash}{09871eeeddbe59cbf49df522043c65db}
+      \strng{fullhash}{09871eeeddbe59cbf49df522043c65db}
+      \strng{bibnamehash}{09871eeeddbe59cbf49df522043c65db}
+      \strng{authorbibnamehash}{09871eeeddbe59cbf49df522043c65db}
+      \strng{authornamehash}{09871eeeddbe59cbf49df522043c65db}
+      \strng{authorfullhash}{09871eeeddbe59cbf49df522043c65db}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{{Eine Analyse der modernen Beziehung von Religion und Politik. Auch wird von Hoover der Aspekt der Medien eingebracht, wo vielleicht ein Zusammenhang zur Römischen Republik zu finden ist, in dem Aspekt der Beliebtheit.}}
-      \field{title}{{The Shifting Terms of Religious Authority in North Atlantic Politics and Culture}}
+      \field{annotation}{Hoover analysiert den Wandel religiöser Autorität in der modernen Politik unter besonderer Berücksichtigung medialer Vermittlung. Der Beitrag dient zur theoretischen Kontextualisierung moderner religiöser Instrumentalisierung und ermöglicht einen systematischen Vergleich mit vormodernen politischen Strukturen.}
+      \field{title}{The Shifting Terms of Religious Authority in North Atlantic Politics and Culture}
       \field{year}{2021}
       \true{nocite}
       \verb{urlraw}
@@ -81,7 +72,7 @@
       \verb https://doi.org/10.46586/er.11.2020.9278
       \endverb
     \endentry
-    \entry{1bee304f5f76b418324421477e82d094072280e4653700a6634ad2dbdb131932}{book}{}
+    \entry{Schaefer2021}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6747d41cf3b3ade4b0ec09736c6617fe}{%
            family={Schäfer},
@@ -102,8 +93,8 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Schäfer erklärt die theoretischen Grundlagen zur politischer Instrumentalisierung von Religion und bezieht sich anschließend auf Beispiele in den USA.}
-      \field{title}{{Die Taufe des Leviathan. Protestantische Eliten und Politik in den USA und Lateinamerika}}
+      \field{annotation}{Schäfer entwickelt einen theoretischen Rahmen zur politischen Instrumentalisierung von Religion und analysiert diesen anhand protestantischer Eliten in den USA. Die Studie dient als zentrale theoretische Grundlage zur Begriffsdefinition und Analyse religiöser Machtstrategien im politischen Kontext der USA.}
+      \field{title}{Die Taufe des Leviathan. Protestantische Eliten und Politik in den USA und Lateinamerika}
       \field{year}{2021}
       \true{nocite}
       \verb{urlraw}
@@ -113,32 +104,32 @@
       \verb https://doi.org/10.14361/9783839457269
       \endverb
     \endentry
-    \entry{Populismus}{article}{}
+    \entry{SchelkshornPopulismus}{incollection}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=33de09179e89a3f1a08d4e9a2ef580d8}{%
-           family={Schelkshom},
+        {{un=0,uniquepart=base,hash=ac6d2afd95026833ef1884bb51fcbebb}{%
+           family={Schelkshorn},
            familyi={S\bibinitperiod},
            given={Hans},
            giveni={H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{33de09179e89a3f1a08d4e9a2ef580d8}
-      \strng{fullhash}{33de09179e89a3f1a08d4e9a2ef580d8}
-      \strng{bibnamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
-      \strng{authorbibnamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
-      \strng{authornamehash}{33de09179e89a3f1a08d4e9a2ef580d8}
-      \strng{authorfullhash}{33de09179e89a3f1a08d4e9a2ef580d8}
+      \strng{namehash}{ac6d2afd95026833ef1884bb51fcbebb}
+      \strng{fullhash}{ac6d2afd95026833ef1884bb51fcbebb}
+      \strng{bibnamehash}{ac6d2afd95026833ef1884bb51fcbebb}
+      \strng{authorbibnamehash}{ac6d2afd95026833ef1884bb51fcbebb}
+      \strng{authornamehash}{ac6d2afd95026833ef1884bb51fcbebb}
+      \strng{authorfullhash}{ac6d2afd95026833ef1884bb51fcbebb}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Moderner Populismus und dessen Instrumentalisierung des Christentums; Mögliche Beispiele für die Seminararbeit.}
-      \field{journaltitle}{Christentum und Populismus : klare Fronten?}
+      \field{annotation}{Schelkshorn kritisiert die politische Instrumentalisierung des Christentums in zeitgenössischen populistischen Bewegungen. Der Beitrag schärft den analytischen Begriff religiöser Instrumentalisierung und dient als kontrastiver Vergleich zu religiösen Legitimationsstrategien in der römischen Republik.}
+      \field{booktitle}{Christentum und Populismus: Klare Fronten?}
       \field{title}{Wider die Instrumentalisierung des Christentums}
       \true{nocite}
     \endentry
-    \entry{3f046f3bdcc25aa51cb5b2fc010406f368b60a04dc2d57fa1217846ad875dfb3}{thesis}{}
+    \entry{Sigere2023}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=934bf201ae03542fa204e107ab4fcd12}{%
            family={Sigere},
@@ -148,7 +139,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {UCL (University College London)}%
+        {University College London}%
       }
       \list{language}{1}{%
         {eng}%
@@ -165,8 +156,8 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{In dieser Doktorarbeit erklärt Sigere \emph{felicitas} als wichtigen Aspekt römischer Politik und der Legitimierungsfunktion die Religion einnahm.}
-      \field{title}{{Rei publicae (in)felix est: FELICITAS and the Romans{’} relationship with the divine}}
+      \field{annotation}{Sigere untersucht \emph{felicitas} als zentrales religiös-politisches Konzept der römischen Republik und zeigt, wie Religion zur politischen Legitimation eingesetzt wurde. Die Arbeit bildet die historische Grundlage für den Vergleich antiker Formen religiöser Instrumentalisierung mit modernen politischen Systemen.}
+      \field{title}{Rei publicae (in)felix est: Felicitas and the Romans' Relationship with the Divine}
       \field{type}{phdthesis}
       \field{year}{2023}
       \true{nocite}

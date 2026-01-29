@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber lit-expose"] 1769690655 "lit-expose.bcf" "lit-expose.bbl" "lit-expose" 1769690657
-  "lit-expose.bcf" 1769690657 107103 3d72aa8d23c28ee17e0b9c6016bce4d4 "pdflatex"
-  "pre-expose-literatur.bib" 1769690654 2282 0af06d78705112565862ad97bfa9f82a ""
+["biber lit-expose"] 1769691095 "lit-expose.bcf" "lit-expose.bbl" "lit-expose" 1769691099
+  "lit-expose.bcf" 1769691099 107103 3d72aa8d23c28ee17e0b9c6016bce4d4 "pdflatex"
+  "pre-expose-literatur.bib" 1769691095 2825 35f6d3f8f31ecb959284892e85689a89 ""
   (generated)
   "lit-expose.bbl"
   "lit-expose.blg"
-["pdflatex"] 1769690656 "/home/flo/Documents/Seminarfach/literaturliste-Expose/lit-expose.tex" "lit-expose.pdf" "lit-expose" 1769690657
+["pdflatex"] 1769691098 "/home/flo/Documents/Seminarfach/literaturliste-Expose/lit-expose.tex" "lit-expose.pdf" "lit-expose" 1769691099
   "/etc/texmf/web2c/texmf.cnf" 1763488958 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/flo/Documents/Seminarfach/literaturliste-Expose/lit-expose.tex" 1769689469 644 879e7aaf31ba6e1f75dd66404931f835 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -87,9 +87,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1763554059 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1763554084 2800203 51a9cc2b7ad21c8c5e03d1677094584f ""
-  "lit-expose.aux" 1769690657 909 c001cdbb4e8ffb71f8a1506cfea46c96 "pdflatex"
-  "lit-expose.bbl" 1769690655 7914 4bd514a797c45ea909110c5fbc4afef4 "biber lit-expose"
-  "lit-expose.run.xml" 1769690657 2427 5b928571b9f62bab2f00ea190fd8ae74 "pdflatex"
+  "lit-expose.aux" 1769691099 769 63cdc529036ff22f0f42080ca5e35f50 "pdflatex"
+  "lit-expose.bbl" 1769691096 7884 46dd39b59eb94a30701b973f90508bdb "biber lit-expose"
+  "lit-expose.run.xml" 1769691099 2427 5b928571b9f62bab2f00ea190fd8ae74 "pdflatex"
   "lit-expose.tex" 1769689469 644 879e7aaf31ba6e1f75dd66404931f835 ""
   (generated)
   "lit-expose.aux"
