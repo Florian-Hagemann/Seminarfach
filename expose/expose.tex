@@ -1,4 +1,4 @@
-\documentclass[a4paper, 12pt]{scrartcl}
+\documentclass[a4paper, 11pt]{scrartcl}
 
 \usepackage[ngerman]{babel}
 \usepackage{sans}
@@ -11,8 +11,9 @@
 \usepackage[
   style=authoryear,
   backend=biber,
-  natbib=true
+  language=ngerman
 ]{biblatex}
+
 \setlength{\bibitemsep}{\baselineskip}   % readable (recommended)
 \addbibresource{expose.bib}
 
@@ -94,10 +95,8 @@ Fachlehrkraft und Kursbezeichnung: Frau Ulm-Wegner SF4 \\
 \section{Ziel der Arbeit}
 \section{Grobe Gliederung}
 \section{Literatur}
-
-
-
-
+\nocite{*}
+\printbibliography
 % formalia formalia
 \newpage
 \section*{Erklärung der Verfasser*innen}

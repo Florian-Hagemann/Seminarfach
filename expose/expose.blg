@@ -1,9 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'expose.blg'
-[65] biber:340> INFO - === Sat Feb 14, 2026, 10:32:32
-[75] Biber.pm:418> INFO - Reading 'expose.bcf'
-[119] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
-[128] bbl.pm:654> INFO - Writing 'expose.bbl' with encoding 'UTF-8'
-[128] bbl.pm:757> INFO - Output to expose.bbl
-[128] Biber.pm:130> WARN - The file 'expose.bcf' does not contain any citations!
-[128] Biber.pm:132> INFO - WARNINGS: 1
+[67] biber:340> INFO - === Sat Feb 14, 2026, 12:31:08
+[78] Biber.pm:418> INFO - Reading 'expose.bcf'
+[135] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[146] Biber.pm:4383> INFO - Processing section 0
+[155] Biber.pm:4574> INFO - Looking for bibtex file 'expose.bib' for section 0
+[156] bibtex.pm:1713> INFO - LaTeX decoding ...
+[162] bibtex.pm:1518> INFO - Found BibTeX data source 'expose.bib'
+[210] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[210] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[210] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
+[210] Biber.pm:4209> INFO - No sort tailoring available for locale 'de-DE'
+[215] bbl.pm:654> INFO - Writing 'expose.bbl' with encoding 'UTF-8'
+[217] bbl.pm:757> INFO - Output to expose.bbl
