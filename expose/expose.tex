@@ -12,7 +12,8 @@
 \usepackage[
   style=authoryear,
   backend=biber,
-  language=ngerman
+  language=ngerman,
+  autocite=footnote
 ]{biblatex}
 
 \setlength{\bibitemsep}{\baselineskip}   % readable (recommended)
@@ -88,11 +89,25 @@
 \pagestyle{plain}
 \newgeometry{left=3cm, right=5cm, top=1.5cm, bottom=2cm}
 
+
+
+
+
+
+% Inhalt des Exposé
 \section{Thema}
+Test des Zitierens\autocite[45]{Schaefer2021}
 \section{Leitfrage}
 \section{Relevanz}
 \section{Ziel der Arbeit}
 \section{Grobe Gliederung}
+
+
+
+
+
+
+
 
 \pagebreak
 \nocite{*}
