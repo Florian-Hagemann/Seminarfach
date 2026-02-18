@@ -9,4 +9,8 @@ Um die einzelnen Arbeitsschritte nachzuvollziehen:
 
 5. Klicken Sie auf einen Commit, um die geänderten Dateien und Inhalte im Detail anzusehen.
 
+
+
+Hier noch ein Bild von wie mein Arbeitsbereich aussah auf dem PC.
+
 ![Ich am schuften](ich-am-schuften.png)
